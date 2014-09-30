@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KlusjesProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="KlusjesProject-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="KlusjesProject:war exploded" />
+    </root>
+  </artifact>
+</component>
